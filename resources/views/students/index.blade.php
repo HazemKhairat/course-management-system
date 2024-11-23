@@ -13,7 +13,7 @@
                     <h5 class="card-title">List Students
                         <a class="btn btn-info float-end" href="{{route('student.create')}}">Create</a>
                     </h5>
-
+                    <!-- new eddit -->
                     <!-- Table with stripped rows -->
                     <table class="table ">
                         <thead>
