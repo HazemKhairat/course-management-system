@@ -1,10 +1,11 @@
 # About the Project
-- Developed a course management system  (MVC) that allows students to enroll in courses and upload projects after completing assignments.
-- Implemented core functionalities such as user authentication and role-based authorization, ensuring secure access control 
+- Developed a course management system  (MVC) that allows students to upload projects after completing assignments.
+- Designed core features using Laravel UI to streamline the development process.
+- Implemented secure user authentication and role-based authorization systems, ensuring robust access control for applications.
 - Designed relational database schema for 5+ core entities.
 # Project Screenshots
 
-## List students
+## Students List
 
 <table>
   <tr>
@@ -12,14 +13,14 @@
   </tr>
 </table>
 
-## Upload new project
+## Create New Project
 <table>
   <tr>
     <td><img src="https://github.com/user-attachments/assets/e1af5c0c-3659-47d3-9cf0-0b0992b28817" /></td>
   </tr>
 </table>
 
-# DataBase
+# Database Design
 <table>
   <tr>
     <td><img src="https://github.com/user-attachments/assets/0407bb79-cdc2-41b7-add9-9bfa6071071e" /></td>
